@@ -1,59 +1,148 @@
 {
-    "cars": [
-        {
-            "name": "Buick",
-            "title": "Buick 1400243",
-            "price": "$25,000",
-            "rating": 4.5,
-            "color": "Red",
-            "overview": "A stylish and reliable car from Buick.",
-            "img": "https://i.ibb.co/VB8yYh7/buick-1400243-1280.jpg"
-        },
-        {
-            "name": "Car",
-            "title": "Car 49278",
-            "price": "$20,500",
-            "rating": 4.2,
-            "color": "Blue",
-            "overview": "A sleek and efficient car for urban driving.",
-            "img": "https://i.ibb.co/z4JTnjh/car-49278-1280.jpg"
-        },
-        {
-            "name": "Automobile",
-            "title": "Automobile 3368094",
-            "price": "$30,000",
-            "rating": 4.8,
-            "color": "Black",
-            "overview": "A luxurious automobile with advanced features.",
-            "img": "https://i.ibb.co/GFJ9nLX/automobile-3368094-1280.jpg"
-        },
-        {
-            "name": "Oldtimer",
-            "title": "Oldtimer 1197800",
-            "price": "$15,000",
-            "rating": 4.0,
-            "color": "Yellow",
-            "overview": "A classic oldtimer perfect for collectors.",
-            "img": "https://i.ibb.co/tQwR6LJ/oldtimer-1197800-1280.jpg"
-        },
-        {
-            "name": "VW Beetle",
-            "title": "VW Beetle 405876",
-            "price": "$18,500",
-            "rating": 4.4,
-            "color": "Green",
-            "overview": "An iconic VW Beetle with modern enhancements.",
-            "img": "https://i.ibb.co/zNMZL9d/vw-beetle-405876-1280.jpg"
-        },
-        {
-            "name": "Fiat 500",
-            "title": "Fiat 500 4322521",
-            "price": "$22,000",
-            "rating": 4.6,
-            "color": "White",
-            "overview": "A compact and stylish Fiat 500.",
-            "img": "https://i.ibb.co/GV8K3h1/fiat-500-4322521-1280.jpg"
-        },
-        {
-            "name": "Car",
-           
+  "cars": [
+    {
+      "name": "Buick",
+      "title": "Buick 1400243",
+      "price": "$25,000",
+      "rating": 4.5,
+      "color": "Red",
+      "overview": "A stylish and reliable car from Buick.",
+      "img": "https://i.ibb.co/GFJ9nLX/automobile-3368094-1280.jpg"
+    },
+    {
+      "name": "Buick",
+      "title": "Buick 1400243",
+      "price": "$25,000",
+      "rating": 4.5,
+      "color": "Red",
+      "overview": "A stylish and reliable car from Buick.",
+      "img": "https://i.ibb.co/gW9XR6C/automobile-3091234-1280.jpg"
+    },
+    {
+      "name": "Buick",
+      "title": "Buick 1400243",
+      "price": "$25,000",
+      "rating": 4.5,
+      "color": "Red",
+      "overview": "A stylish and reliable car from Buick.",
+      "img": "https://i.ibb.co/jWqcwFd/automobile-1838782-1280.jpg"
+    },
+    {
+      "name": "Volkswagen",
+      "title": "Volkswagen Beetle",
+      "price": "$28,000",
+      "rating": 4.3,
+      "color": "Yellow",
+      "overview": "A classic Volkswagen Beetle with modern features.",
+      "img": "https://i.ibb.co/zNMZL9d/vw-beetle-405876-1280.jpg"
+    },
+    {
+      "name": "Volkswagen",
+      "title": "Volkswagen",
+      "price": "$30,000",
+      "rating": 4.7,
+      "color": "Blue",
+      "overview": "A stylish Volkswagen with excellent performance.",
+      "img": "https://i.ibb.co/ckhNkHd/vw-1835506-1280.jpg"
+    },
+    {
+      "name": "Vintage",
+      "title": "Vintage Car",
+      "price": "$40,000",
+      "rating": 4.9,
+      "color": "Silver",
+      "overview": "An elegant vintage car with timeless appeal.",
+      "img": "https://i.ibb.co/tQwR6LJ/oldtimer-1197800-1280.jpg"
+    },
+    {
+      "name": "Fiat",
+      "title": "Fiat 500",
+      "price": "$22,000",
+      "rating": 4.2,
+      "color": "Green",
+      "overview": "A compact and efficient car from Fiat.",
+      "img": "https://i.ibb.co/GV8K3h1/fiat-500-4322521-1280.jpg"
+    },
+    {
+      "name": "Edsel",
+      "title": "Edsel Ranger",
+      "price": "$20,000",
+      "rating": 4.0,
+      "color": "Brown",
+      "overview": "A classic Edsel with a touch of nostalgia.",
+      "img": "https://i.ibb.co/9Y4tXHr/edsel-ranger-392745-1280.jpg"
+    },
+    {
+      "name": "Vintage",
+      "title": "Vintage Car",
+      "price": "$35,000",
+      "rating": 4.6,
+      "color": "Black",
+      "overview": "An exquisite vintage car for enthusiasts.",
+      "img": "https://i.ibb.co/pdgWbsX/cars-1638594-1280.jpg"
+    },
+    {
+      "name": "Luxury",
+      "title": "Luxury Car",
+      "price": "$50,000",
+      "rating": 4.8,
+      "color": "White",
+      "overview": "Experience luxury and comfort in this prestigious car.",
+      "img": "https://i.ibb.co/jDHgVR3/car-4393990-1280.jpg"
+    },
+    {
+      "name": "Sports",
+      "title": "Sports Car",
+      "price": "$60,000",
+      "rating": 4.9,
+      "color": "Red",
+      "overview": "Feel the thrill of speed with this high-performance sports car.",
+      "img": "https://i.ibb.co/B3P4xLd/car-1880381-1280.jpg"
+    },
+    {
+      "name": "Compact",
+      "title": "Compact Car",
+      "price": "$20,000",
+      "rating": 4.2,
+      "color": "Blue",
+      "overview": "A practical and reliable compact car for everyday use.",
+      "img": "https://i.ibb.co/F5yfqww/car-1283947-1280.jpg"
+    },
+    {
+      "name": "Modern",
+      "title": "Modern Car",
+      "price": "$40,000",
+      "rating": 4.7,
+      "color": "Silver",
+      "overview": "Sleek design meets advanced technology in this modern car.",
+      "img": "https://i.ibb.co/3MMvLwv/car-1376190-1280.jpg"
+    },
+    {
+      "name": "SUV",
+      "title": "SUV",
+      "price": "$55,000",
+      "rating": 4.6,
+      "color": "Black",
+      "overview": "Conquer any terrain with this versatile and powerful SUV.",
+      "img": "https://i.ibb.co/w7CGZvQ/car-63930-1280.jpg"
+    },
+    {
+      "name": "Buick",
+      "title": "Buick 1400243",
+      "price": "$25,000",
+      "rating": 4.5,
+      "color": "Red",
+      "overview": "A stylish and reliable car from Buick.",
+      "img": "https://i.ibb.co/VB8yYh7/buick-1400243-1280.jpg"
+    },
+    {
+      "name": "Convertible",
+      "title": "Convertible Car",
+      "price": "$45,000",
+      "rating": 4.8,
+      "color": "Blue",
+      "overview": "Feel the breeze in this stunning convertible car.",
+      "img": "https://i.ibb.co/z4JTnjh/car-49278-1280.jpg"
+    }
+  ]
+}
